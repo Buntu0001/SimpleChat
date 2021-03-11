@@ -1,0 +1,12 @@
+C:\Users\Buntu\Desktop\source\SimpleChat\SimpleChat-Server\bin\Debug\SimpleChat_Server.exe
+C:\Users\Buntu\Desktop\source\SimpleChat\SimpleChat-Server\bin\Debug\SimpleChat_Server.pdb
+C:\Users\Buntu\Desktop\source\SimpleChat\SimpleChat-Server\obj\Debug\SimpleChat-Server.csprojAssemblyReference.cache
+C:\Users\Buntu\Desktop\source\SimpleChat\SimpleChat-Server\obj\Debug\SimpleChat-Server.csproj.CoreCompileInputs.cache
+C:\Users\Buntu\Desktop\source\SimpleChat\SimpleChat-Server\obj\Debug\SimpleChat_Server.exe
+C:\Users\Buntu\Desktop\source\SimpleChat\SimpleChat-Server\obj\Debug\SimpleChat_Server.pdb
+C:\Users\Buntu\Desktop\source\SimpleChat-main\SimpleChat-Server\bin\Debug\SimpleChat_Server.exe
+C:\Users\Buntu\Desktop\source\SimpleChat-main\SimpleChat-Server\bin\Debug\SimpleChat_Server.pdb
+C:\Users\Buntu\Desktop\source\SimpleChat-main\SimpleChat-Server\obj\Debug\SimpleChat-Server.csprojAssemblyReference.cache
+C:\Users\Buntu\Desktop\source\SimpleChat-main\SimpleChat-Server\obj\Debug\SimpleChat-Server.csproj.CoreCompileInputs.cache
+C:\Users\Buntu\Desktop\source\SimpleChat-main\SimpleChat-Server\obj\Debug\SimpleChat_Server.exe
+C:\Users\Buntu\Desktop\source\SimpleChat-main\SimpleChat-Server\obj\Debug\SimpleChat_Server.pdb
